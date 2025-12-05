@@ -1,0 +1,11 @@
+langchain
+langchain-community
+ollama
+langchain-ollama
+streamlit
+pypdf
+faiss-cpu
+sentence-transformers
+python-dotenv
+tqdm
+langchain-huggingface
